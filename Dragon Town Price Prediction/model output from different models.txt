@@ -1,0 +1,12 @@
+1. Decision Tress:
+   Mean:  4.506253570252485
+   standard deviation:  1.1325130186143189
+
+
+2. Linear Regression:
+   Mean:  4.9185383206779525 
+   standard deviation:  0.861170007834558
+
+3. Random Forest:
+   Mean:  3.2146781694794435
+   standard deviation:  0.7063535722270229
